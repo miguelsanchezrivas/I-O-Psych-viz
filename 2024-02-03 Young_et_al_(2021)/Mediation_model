@@ -1,0 +1,12 @@
+Path	β
+Contingent reward → LMX	0.84
+LMX → Empowerment	0.77
+Empowerment → Contextual performance	0.32
+MBEP → Empowerment	0.27
+Empowerment → Task performance	0.24
+LMX → Task performance	0.17
+LMX → Contextual performance	0.17
+MBEA → Empowerment	0.16
+Contingent reward → Empowerment	-0.13
+MBEP → LMX	-0.15
+MBEA → LMX	-0.38
